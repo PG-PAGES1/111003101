@@ -1,0 +1,76 @@
+
+speed.jpg
+size: 1254,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reel_su_frame/fs_vfx_a_add_00
+  rotate: false
+  xy: 883, 1
+  size: 122, 432
+  orig: 144, 432
+  offset: 0, 0
+  index: -1
+reel_su_frame/fs_vfx_a_add_01
+  rotate: false
+  xy: 1007, 3
+  size: 122, 430
+  orig: 144, 432
+  offset: 0, 2
+  index: -1
+reel_su_frame/fs_vfx_a_add_02
+  rotate: false
+  xy: 1131, 4
+  size: 122, 429
+  orig: 144, 432
+  offset: 0, 3
+  index: -1
+reel_su_frame/fs_vfx_a_add_03
+  rotate: false
+  xy: 757, 6
+  size: 124, 427
+  orig: 144, 432
+  offset: 0, 5
+  index: -1
+reel_su_frame/fs_vfx_a_add_04
+  rotate: false
+  xy: 631, 5
+  size: 124, 428
+  orig: 144, 432
+  offset: 0, 3
+  index: -1
+reel_su_frame/fs_vfx_a_add_05
+  rotate: false
+  xy: 505, 3
+  size: 124, 430
+  orig: 144, 432
+  offset: 0, 1
+  index: -1
+reel_su_frame/fs_vfx_a_add_06
+  rotate: false
+  xy: 253, 2
+  size: 124, 431
+  orig: 144, 432
+  offset: 0, 1
+  index: -1
+reel_su_frame/fs_vfx_a_add_07
+  rotate: false
+  xy: 379, 2
+  size: 124, 431
+  orig: 144, 432
+  offset: 0, 1
+  index: -1
+reel_su_frame/fs_vfx_a_add_08
+  rotate: false
+  xy: 1, 1
+  size: 124, 432
+  orig: 144, 432
+  offset: 0, 0
+  index: -1
+reel_su_frame/fs_vfx_a_add_09
+  rotate: false
+  xy: 127, 1
+  size: 124, 432
+  orig: 144, 432
+  offset: 0, 0
+  index: -1

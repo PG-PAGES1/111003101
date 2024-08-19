@@ -1,0 +1,90 @@
+
+s_scatter_b_atlas_specials.png
+size: 577,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_s_b_coins
+  rotate: false
+  xy: 180, 265
+  size: 180, 265
+  orig: 180, 265
+  offset: 0, 0
+  index: -1
+s_s_b_coins_fx01
+  rotate: true
+  xy: 441, 1
+  size: 128, 132
+  orig: 134, 194
+  offset: 0, 0
+  index: -1
+s_s_b_coins_fx02
+  rotate: false
+  xy: 306, 69
+  size: 133, 194
+  orig: 134, 194
+  offset: 0, 0
+  index: -1
+s_s_b_coins_fx03
+  rotate: false
+  xy: 441, 131
+  size: 129, 148
+  orig: 134, 194
+  offset: 5, 46
+  index: -1
+s_s_b_frame
+  rotate: false
+  xy: 1, 234
+  size: 177, 296
+  orig: 177, 296
+  offset: 0, 0
+  index: -1
+s_s_b_frame2
+  rotate: false
+  xy: 180, 55
+  size: 124, 208
+  orig: 124, 208
+  offset: 0, 0
+  index: -1
+s_s_b_frame_f
+  rotate: false
+  xy: 1, 4
+  size: 177, 228
+  orig: 177, 232
+  offset: 0, 0
+  index: -1
+s_s_b_frame_f2
+  rotate: false
+  xy: 452, 370
+  size: 124, 160
+  orig: 124, 163
+  offset: 0, 0
+  index: -1
+s_sw_sparkle
+  rotate: false
+  xy: 180, 25
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+scatter_vfx_a_screen
+  rotate: false
+  xy: 362, 281
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+txt_scatter_fx_zh
+  rotate: false
+  xy: 306, 3
+  size: 122, 64
+  orig: 122, 64
+  offset: 0, 0
+  index: -1
+txt_scatter_zh
+  rotate: true
+  xy: 362, 359
+  size: 171, 88
+  orig: 174, 91
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,69 @@
+
+gold_l.jpg
+size: 486,486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_gold_frame_a_m
+  rotate: false
+  xy: 266, 15
+  size: 92, 91
+  orig: 170, 170
+  offset: 39, 40
+  index: -1
+s_gold_frame_b_m
+  rotate: false
+  xy: 172, 20
+  size: 92, 165
+  orig: 170, 170
+  offset: 39, 3
+  index: -1
+s_gold_frame_c_m
+  rotate: true
+  xy: 113, 187
+  size: 92, 240
+  orig: 170, 370
+  offset: 39, 65
+  index: -1
+s_gold_frame_d_m
+  rotate: true
+  xy: 113, 281
+  size: 92, 313
+  orig: 170, 370
+  offset: 39, 29
+  index: -1
+shuffle_vfx_c_add
+  rotate: true
+  xy: 1, 1
+  size: 167, 169
+  orig: 167, 169
+  offset: 0, 0
+  index: -1
+wh_vfx_d_add_1x1
+  rotate: false
+  xy: 359, 387
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+wh_vfx_d_add_1x2
+  rotate: false
+  xy: 355, 108
+  size: 110, 171
+  orig: 110, 171
+  offset: 0, 0
+  index: -1
+wh_vfx_d_add_1x3
+  rotate: true
+  xy: 113, 375
+  size: 110, 244
+  orig: 110, 244
+  offset: 0, 0
+  index: -1
+wh_vfx_d_add_1x4
+  rotate: false
+  xy: 1, 170
+  size: 110, 315
+  orig: 110, 315
+  offset: 0, 0
+  index: -1
